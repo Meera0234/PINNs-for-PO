@@ -96,7 +96,7 @@ We solve the **Hamilton-Jacobi-Bellman (HJB)** equation using PINNs to learn the
 
 ## 💼 Authors
 
-This project was developed as part of the **ENM 5320: Final Project** at the University of Pennsylvania.
+This project was developed as part of the **ENM 5320: Final Project** at the University of Pennsylvania by @Meera0234 and @Sansupenn
 
 ---
 
